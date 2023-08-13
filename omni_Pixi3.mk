@@ -14,8 +14,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 # Inherit from Pixi3-10_WiFi device
 $(call inherit-product, device/tcl/Pixi3/device.mk)
 
-PRODUCT_DEVICE := Pixi3
-PRODUCT_NAME := omni_Pixi3
+PRODUCT_DEVICE := Pixi3-10_WiFi
+PRODUCT_NAME := omni_Pixi3-10_WiFi
 PRODUCT_BRAND := TCL
 PRODUCT_MODEL := 8080
 PRODUCT_MANUFACTURER := tcl
