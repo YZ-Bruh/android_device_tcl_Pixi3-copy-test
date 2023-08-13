@@ -6,5 +6,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Pixi3.mk
+    $(LOCAL_DIR)/omni_Pixi3-10_WiFi.mk
 
