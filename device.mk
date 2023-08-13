@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/tcl/Pixi3
+LOCAL_PATH := device/tcl/Pixi3-10_WiFi
