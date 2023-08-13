@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/tcl/Pixi3
+DEVICE_PATH := device/tcl/Pixi3-10_WiFi
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
